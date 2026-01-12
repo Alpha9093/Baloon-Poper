@@ -1,0 +1,8 @@
+
+{
+  "name": "Baloon Poper - Cyber Mining Dashboard",
+  "description": "A high-performance futuristic balloon popping game with energy systems, boosts, referrals, and a USDT vault.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
